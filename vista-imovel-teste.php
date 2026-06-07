@@ -14,9 +14,9 @@ defined( 'ABSPATH' ) || exit;
 // ═══════════════════════════════════════════════════════
 function anuveform_defaults() {
     return [
-        'notify_email' => 'ivanenriqueales@gmail.com',
-        'redirect_url' => 'https://anuvedigital.com.br/obrigado',
-        'webhook_url'  => 'https://hooks.zapier.com/hooks/catch/25178606/4ofsqjq/',
+        'notify_email' => 'dudda.dsgn@gmail.com',
+        'redirect_url' => 'https://kenzieestudio.com.br/?page_id=380&',
+        'webhook_url'  => 'hwsn5nlwybrrdoobdu25bcshs1yxbnt3@hook.us2.make.com',
         'btn_label'    => 'Solicitar Orçamento',
     ];
 }
